@@ -1,0 +1,14 @@
+{
+  "name": "ep_visual_slider",
+  "version": "0.0.1",
+  "description": "A visual slider for your pad",
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "readmeFilename": "README.md"
+}

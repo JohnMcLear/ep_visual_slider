@@ -1,0 +1,17 @@
+{
+  "parts": [
+    {
+      "name": "ep_visual_slider",
+      "hooks": {
+        "eejsBlock_scripts"          : "ep_visual_slider/index",
+        "eejsBlock_styles"           : "ep_visual_slider/index",
+        "eejsBlock_mySettings"       : "ep_visual_slider/index",
+        "eejsBlock_body"             : "ep_visual_slider/index"
+      },
+      "client_hooks":{
+        "aceEditEvent"           : "ep_visual_slider/static/js/aceEditEvent:aceEditEvent",
+        "postAceInit"            : "ep_visual_slider/static/js/postAceInit:postAceInit"
+      }
+    }
+  ]
+}
