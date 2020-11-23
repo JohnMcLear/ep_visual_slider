@@ -1,3 +1,5 @@
+# DOES NOT APPEAR TO WORK
+
 # Visual Slider
 
 A visual slider so you can see where you are moving to on a document, influenced by Sublime editor
